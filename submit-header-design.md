@@ -55,7 +55,7 @@ You can upload a custom image for mobile. Plus there is one extra option, you ca
 
 ## How it looks in code
 
-Below are the variable used to configure a theme. These are located in [themes.js](/js/themes.js){:target="_blank"}.
+Below are the variables used to configure a theme. These are located in [themes.js](/js/themes.js){:target="_blank"}.
 
 ```javascript
     logo: {
